@@ -1,0 +1,1 @@
+Broker has to enable web sockets in order to make this project workable.

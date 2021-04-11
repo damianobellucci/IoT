@@ -3,7 +3,7 @@ var mqtt = require('mqtt');
 const IPbroker = 'mqtt://130.136.2.70:1883'
 const topic_1 = 'temperature/damianobellucci'
 const options = {
-    clientId: 'clientJS',
+    clientId: 'clientJSsub',
     protocolId: 'MQIsdp',
     protocolVersion: 3,
     connectTimeout: 1000,
